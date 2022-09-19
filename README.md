@@ -1,2 +1,2 @@
 # XRE
-Open source XR designed engine graphics engine
+Open source XR designed graphics engine
